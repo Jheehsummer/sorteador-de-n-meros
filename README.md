@@ -6,7 +6,5 @@
 <br>
 <br>
 
-
-<img src="https://github.com/Jheehsummer/sorteador-de-numeros/blob/main/gerador%20de%20numero/assets/img%20sorteador.png?raw=true">
 <img src="https://github.com/Jheehsummer/sorteador-de-numeros/blob/main/gerador%20de%20numero/assets/img%20sorteador.png?raw=true" width=700px>
                                                               
