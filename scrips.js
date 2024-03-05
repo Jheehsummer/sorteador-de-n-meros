@@ -11,7 +11,7 @@ function generateNumber(){
         resultado.innerHTML = Math.floor(Math.random() * (max - min + 1)) + min
 
         
-    } 
+    } else { window.alert ("Verifique os números digitados (mínimo de 0)")}
   
     
 }
